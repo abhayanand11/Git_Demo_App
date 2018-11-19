@@ -11,3 +11,4 @@
 .externalNativeBuild
 Test
 .idea/sonarlint/
+.idea/misc.xml
