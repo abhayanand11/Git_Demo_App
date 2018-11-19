@@ -29,4 +29,12 @@
         tools:layout_editor_absoluteX="147dp"
         tools:layout_editor_absoluteY="126dp" />
 
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Button"
+        tools:layout_editor_absoluteX="135dp"
+        tools:layout_editor_absoluteY="317dp" />
+
 </android.support.constraint.ConstraintLayout>
